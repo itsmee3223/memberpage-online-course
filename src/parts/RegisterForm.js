@@ -4,7 +4,7 @@ import { withRouter } from "react-router-dom";
 import users from "constants/api/users";
 
 import useForm from "helpers/hooks/useForm";
-import fieldErrors from "helpers/FieldErrors";
+import fieldErrors from "helpers/fieldErrors";
 
 import Select from "components/Form/Select";
 import Input from "components/Form/Input";
