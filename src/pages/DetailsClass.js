@@ -67,7 +67,7 @@ export default function DetailsClass({ match, history }) {
           ></SidebarClass>
           <main className="flex-1">
             <div className="px-4 sm:px-16">
-              <section className="flex flex-col mt-8 pl-12 sm:pl-0">
+              <section className="flex flex-col mt-4 pl-12 sm:pl-0">
                 <h1 className="text-xl sm:text-4xl text-gray-900 font-medium">
                   {currentLesson?.name ?? "Lesson Name"}
                 </h1>
@@ -75,7 +75,7 @@ export default function DetailsClass({ match, history }) {
                   Materi bagian dari {currentChapter?.name ?? "Chapter Name"}
                 </p>
               </section>
-              <section className="flex flex-col mt-8">
+              <section className="flex flex-col ">
                 <div className="flex justify-start items-center -mx-4">
                   <div className="w-full px-4">
                     <div className="relative">
