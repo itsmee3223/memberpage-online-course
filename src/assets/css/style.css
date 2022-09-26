@@ -15603,7 +15603,7 @@ video {
 .truncate{
   overflow: hidden;
   text-overflow: ellipsis;
-  white-space: nowrap;
+  white-space: normal;
 }
 
 .w-0{
@@ -34017,7 +34017,7 @@ svg#svg-star {
   .sm\:truncate{
     overflow: hidden;
     text-overflow: ellipsis;
-    white-space: nowrap;
+    white-space: normal;
   }
 
   .sm\:w-0{
@@ -52007,7 +52007,7 @@ svg#svg-star {
   .md\:truncate{
     overflow: hidden;
     text-overflow: ellipsis;
-    white-space: nowrap;
+    white-space: normal;
   }
 
   .md\:w-0{
@@ -69997,7 +69997,7 @@ svg#svg-star {
   .lg\:truncate{
     overflow: hidden;
     text-overflow: ellipsis;
-    white-space: nowrap;
+    white-space: normal;
   }
 
   .lg\:w-0{
@@ -87987,7 +87987,7 @@ svg#svg-star {
   .xl\:truncate{
     overflow: hidden;
     text-overflow: ellipsis;
-    white-space: nowrap;
+    white-space: normal;
   }
 
   .xl\:w-0{
